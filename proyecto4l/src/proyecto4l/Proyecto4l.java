@@ -9,13 +9,14 @@ package proyecto4l;
  *
  * @author erick
  */
+import java.util.Scanner;
 public class Proyecto4l {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("CESAR LA CHUPA");
     }
     
 }
